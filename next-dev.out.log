@@ -13,3 +13,17 @@
  ✓ Compiled in 773ms (709 modules)
  GET /projects 200 in 68ms
  GET /projects 200 in 52ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1726ms (1454 modules)
+ GET / 200 in 2266ms
+ GET / 200 in 74ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 935ms (784 modules)
+ GET /favicon.ico 200 in 1112ms
+ ✓ Compiled in 1503ms (1498 modules)
+ ✓ Compiled /services in 413ms (1492 modules)
+ GET /projects 200 in 277ms
+ ○ Compiling /resume ...
+ ✓ Compiled /resume in 8.5s (1551 modules)
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 2.1s (1535 modules)
