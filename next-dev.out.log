@@ -27,3 +27,5 @@
  ✓ Compiled /resume in 8.5s (1551 modules)
  ○ Compiling /contact ...
  ✓ Compiled /contact in 2.1s (1535 modules)
+ GET / 200 in 237ms
+ GET / 200 in 42ms
