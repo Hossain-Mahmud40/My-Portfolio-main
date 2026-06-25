@@ -1,0 +1,74 @@
+
+> luke-portfolio@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.3
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 9.2s (1463 modules)
+ GET / 200 in 9835ms
+ ✓ Compiled in 953ms (708 modules)
+ GET / 200 in 75ms
+ GET / 200 in 73ms
+ ✓ Compiled /favicon.ico in 470ms (776 modules)
+ GET /favicon.ico 200 in 551ms
+ ○ Compiling /services ...
+ ✓ Compiled /services in 6s (1480 modules)
+ GET / 200 in 656ms
+ GET /favicon.ico 200 in 19ms
+ ○ Compiling /resume ...
+ ✓ Compiled /resume in 7.6s (1539 modules)
+ ○ Compiling /work ...
+ ✓ Compiled /contact in 81.6s (1588 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.5s (1811 modules)
+ GET / 500 in 10598ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1002ms (883 modules)
+ GET /favicon.ico 200 in 1203ms
+ ✓ Compiled in 626ms (1841 modules)
+ GET / 200 in 464ms
+ GET /favicon.ico 200 in 17ms
+ ✓ Compiled in 633ms (1841 modules)
+ ○ Compiling /_not-found ...
+ GET /_next/static/webpack/d0fe34cd7ffe215e.webpack.hot-update.json 500 in 3272ms
+ GET /_next/static/webpack/d0fe34cd7ffe215e.webpack.hot-update.json 500 in 3235ms
+ GET / 500 in 19ms
+ GET / 500 in 44ms
+ GET /favicon.ico 500 in 36ms
+ ✓ Compiled /_error in 9.1s (1796 modules)
+ GET /_next/static/webpack/bfe6db2464f26423.webpack.hot-update.json 404 in 11625ms
+ GET /_next/static/webpack/bfe6db2464f26423.webpack.hot-update.json 404 in 12319ms
+ GET / 200 in 1397ms
+ GET / 200 in 3317ms
+ GET /favicon.ico 200 in 25ms
+ ✓ Compiled in 1134ms (1810 modules)
+ GET / 200 in 147ms
+ ✓ Compiled in 1690ms (1808 modules)
+ ✓ Compiled in 15.3s (1775 modules)
+ ✓ Compiled in 1275ms (1775 modules)
+ ✓ Compiled in 1402ms (1775 modules)
+ ✓ Compiled in 502ms (1775 modules)
+ GET / 200 in 234ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1057ms (848 modules)
+ GET /favicon.ico 200 in 1139ms
+ ○ Compiling /_error ...
+ GET / 500 in 14ms
+ ✓ Compiled /_not-found in 2.8s (1810 modules)
+ GET / 500 in 2812ms
+ GET /_next/static/webpack/bfe6db2464f26423.webpack.hot-update.json 404 in 1649ms
+ GET / 200 in 292ms
+ GET /_next/static/webpack/bfe6db2464f26423.webpack.hot-update.json 404 in 56ms
+ GET / 200 in 80ms
+ GET / 200 in 78ms
+ GET /favicon.ico 200 in 28ms
+ ✓ Compiled in 827ms (1810 modules)
+ ✓ Compiled in 471ms (1810 modules)
+ ✓ Compiled in 1932ms (1775 modules)
+ ✓ Compiled in 734ms (1775 modules)
+ ✓ Compiled in 803ms (1775 modules)
+ ✓ Compiled in 538ms (1775 modules)

@@ -1,0 +1,415 @@
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async rL (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:7290)
+    at async rU (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:12534)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:13106
+    at async Promise.all (index 0)
+    at async rU (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:13040)
+    at async rZ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:16064) {
+  page: '/'
+}
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async rL (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:7290)
+    at async rU (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:12534)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:13106
+    at async Promise.all (index 0)
+    at async rU (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:13040)
+    at async rZ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:39:16064) {
+  page: '/'
+}
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async Promise.all (index 0)
+digest: "1538000618"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async Promise.all (index 0)
+digest: "1538000618"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async Promise.all (index 0)
+digest: "1538000618"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async Promise.all (index 0)
+digest: "1538000618"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async Promise.all (index 0)
+digest: "1538000618"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async Promise.all (index 0)
+digest: "1538000618"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+digest: "2565377936"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+digest: "2565377936"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+digest: "4183567198"
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:567:9)
+    at process.processTimers (node:internal/timers:541:7)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async tb (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400212)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400773)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400904)
+    at async tR (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2130)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2722 {
+  digest: '2565377936'
+}
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:567:9)
+    at process.processTimers (node:internal/timers:541:7)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async tb (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400212)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400773)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400904)
+    at async tR (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2130)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2722 {
+  digest: '2565377936',
+  page: '/'
+}
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:567:9)
+    at process.processTimers (node:internal/timers:541:7)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async tb (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400212)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400773)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400904)
+    at async tR (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2130)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2722 {
+  digest: '2565377936'
+}
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:567:9)
+    at process.processTimers (node:internal/timers:541:7)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async tb (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400212)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400773)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400904)
+    at async tR (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2130)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2722 {
+  digest: '2565377936',
+  page: '/'
+}
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async tb (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400212)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400773)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400904)
+    at async tR (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2130)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2722 {
+  digest: '4183567198'
+}
+ ⨯ components\Social.jsx (18:12) @ FaFacebook
+ ⨯ ReferenceError: FaFacebook is not defined
+    at eval (webpack-internal:///(rsc)/./components/Social.jsx:34:91)
+    at (rsc)/./components/Social.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:421:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at eval (webpack-internal:///(rsc)/./app/page.jsx:9:76)
+    at (rsc)/./app/page.jsx (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\app\page.js:283:1)
+    at __webpack_require__ (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\server\webpack-runtime.js:33:43)
+    at async e9 (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:396554)
+    at async tb (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400212)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400773)
+    at async tS (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:35:400904)
+    at async tR (C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2130)
+    at async C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\node_modules\next\dist\compiled\next-server\app-page.runtime.dev.js:36:2722 {
+  digest: '4183567198',
+  page: '/'
+}
+[0m [90m 16 |[39m   }[33m,[39m[0m
+[0m [90m 17 |[39m   {[0m
+[0m[31m[1m>[22m[39m[90m 18 |[39m     icon[33m:[39m [33m<[39m[33mFaFacebook[39m [33m/[39m[33m>[39m[33m,[39m[0m
+[0m [90m    |[39m            [31m[1m^[22m[39m[0m
+[0m [90m 19 |[39m     path[33m:[39m [32m"https://www.youtube.com/@capitalviper1724"[39m[33m,[39m[0m
+[0m [90m 20 |[39m     target[33m:[39m [32m"_blank"[39m[33m,[39m[0m
+[0m [90m 21 |[39m   }[33m,[39m[0m
+ ⨯ ./components/Social.jsx
+Error: 
+  [31mx[0m Unexpected token `< (jsx tag start)`. Expected identifier, string literal, numeric literal or [ for the computed key
+    ,-[[36;1;4mC:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\components\Social.jsx[0m:20:1]
+ [2m20[0m |     target: "_blank",
+ [2m21[0m |   },
+ [2m22[0m |   {
+ [2m23[0m |     <Fa
+    : [31;1m    ^[0m
+ [2m24[0m |     icon: <FaXTwitter />,
+ [2m25[0m |     path: "https://www.instagram.com/hossainmp40?igsh=YTQ5bTNkbXhwNXR5&utm_source=qr",
+ [2m25[0m |   },
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./components/Social.jsx
+./app/page.jsx
+ ⨯ ./components/Social.jsx
+Error: 
+  [31mx[0m Unexpected token `< (jsx tag start)`. Expected identifier, string literal, numeric literal or [ for the computed key
+    ,-[[36;1;4mC:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\components\Social.jsx[0m:20:1]
+ [2m20[0m |     target: "_blank",
+ [2m21[0m |   },
+ [2m22[0m |   {
+ [2m23[0m |     <Fa
+    : [31;1m    ^[0m
+ [2m24[0m |     icon: <FaXTwitter />,
+ [2m25[0m |     path: "https://www.instagram.com/hossainmp40?igsh=YTQ5bTNkbXhwNXR5&utm_source=qr",
+ [2m25[0m |   },
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./components/Social.jsx
+./app/page.jsx
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\cache\webpack\client-development-fallback\0.pack.gz_' -> 'C:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\.next\cache\webpack\client-development-fallback\0.pack.gz'
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⨯ ./components/Stats.jsx
+Error: 
+  [31mx[0m Expression expected
+   ,-[[36;1;4mC:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\components\Stats.jsx[0m:4:1]
+ [2m4[0m | 
+ [2m5[0m | const stats = [
+ [2m6[0m |   {
+ [2m7[0m |     num: 40+,
+   : [31;1m            ^[0m
+ [2m8[0m |     text: "Months of experience",
+ [2m9[0m |   },
+ [2m9[0m |   {
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./components/Stats.jsx
+./app/page.jsx
+ ⨯ ./components/Stats.jsx
+Error: 
+  [31mx[0m Expression expected
+   ,-[[36;1;4mC:\Users\alemr\OneDrive\Desktop\Project (Hero)\Assignments and projects\My-Portfolio-main\components\Stats.jsx[0m:4:1]
+ [2m4[0m | 
+ [2m5[0m | const stats = [
+ [2m6[0m |   {
+ [2m7[0m |     num: 40+,
+   : [31;1m            ^[0m
+ [2m8[0m |     text: "Months of experience",
+ [2m9[0m |   },
+ [2m9[0m |   {
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./components/Stats.jsx
+./app/page.jsx
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.

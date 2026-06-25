@@ -13,13 +13,17 @@ const Home = () => {
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           {/* text */}
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">Software Developer</span>
-            <h1 className="h1 mb-6">
-              Hello I'm <br /> <span className="text-accent">Hossain Mahmud.</span>
+            <span className="text-xl text-accent">Software Developer</span>
+            <h1 className="h2 mb-6">
+              Hello I'm <br />{" "}
+              <span className="text-accent">Hossain Mahmud.</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              I excel at crafting elegant digital experiences and I am
-              proficient in various programming languages and technologies.
+              I build scalable backend systems and modern web applications using
+              Node.js, Express.js, MongoDB, PostgreSQL, React, and Next.js. I
+              focus on clean architecture, performance, and practical
+              problem-solving. Alongside development, I’m also building my own
+              business and exploring innovative startup ideas.
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
