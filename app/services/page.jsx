@@ -6,30 +6,30 @@ import Link from "next/link";
 const services = [
   {
     num: "01",
-    title: "Web Development",
+    title: "Web Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Crafting visually stunning and user-friendly web designs tailored to your brand.",
     href: "",
   },
   {
     num: "02",
-    title: "UI/UX Design",
+    title: "Frontend Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Building responsive and interactive user interfaces with React, Next.js, and modern web technologies.",
     href: "",
   },
   {
     num: "03",
-    title: "Logo Design",
+    title: "Backend Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Developing secure, scalable, and high-performance server-side applications with Node.js, Express.js, and databases.",
     href: "",
   },
   {
     num: "04",
-    title: "SEO",
+    title: "API Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque tenetur.",
+      "Designing robust RESTful APIs, authentication systems, and third-party integrations for seamless application connectivity.",
     href: "",
   },
 ];

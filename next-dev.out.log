@@ -73,3 +73,23 @@
  ✓ Compiled in 803ms (1775 modules)
  ✓ Compiled in 538ms (1775 modules)
  ✓ Compiled in 1231ms (1775 modules)
+ ✓ Compiled in 5.4s (1775 modules)
+ GET /services 200 in 276ms
+ ✓ Compiled in 2s (957 modules)
+ ✓ Compiled in 1340ms (1775 modules)
+ GET /resume 200 in 502ms
+ GET /resume 200 in 26ms
+ GET / 200 in 54ms
+ ✓ Compiled in 1482ms (1775 modules)
+ GET /resume 200 in 218ms
+ ○ Compiling /work ...
+ ✓ Compiled /work in 1972ms (833 modules)
+ ✓ Compiled in 1202ms (1790 modules)
+ GET /resume 200 in 329ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1428ms (1779 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 1878ms
+ ✓ Compiled in 1484ms (1790 modules)
+ GET /resume 200 in 405ms
+ ○ Compiling /contact ...
+ ✓ Compiled /contact in 828ms (852 modules)
