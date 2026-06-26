@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { Button } from "./ui/button";
 
 // components
 import Nav from "./Nav";
@@ -11,7 +10,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* logo */}
         <Link href="/">
-          <h1 className="text-4xl font-semibold">
+          <h1 className="text-2xl sm:text-4xl font-semibold">
             Hossain Mahmud<span className="text-accent">.</span>
           </h1>
         </Link>

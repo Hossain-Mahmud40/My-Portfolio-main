@@ -40,23 +40,30 @@ const Contact = () => {
     const formData = new FormData(form);
 
     try {
-      const response = await fetch("https://formsubmit.co/ajax/c62ede122b8d4b6e20315204761f2ed5", {
-        method: "POST",
-        headers: {
-          Accept: "application/json",
-        },
-        body: formData,
-      });
+      const response = await fetch(
+        "https://formsubmit.co/ajax/c62ede122b8d4b6e20315204761f2ed5",
+        {
+          method: "POST",
+          headers: {
+            Accept: "application/json",
+          },
+          body: formData,
+        }
+      );
 
       if (!response.ok) {
         throw new Error("Message could not be sent.");
       }
 
       form.reset();
-      setModalMessage("Your message has been sent successfully. I will get back to you soon.");
+      setModalMessage(
+        "Your message has been sent successfully. I will get back to you soon."
+      );
       setSubmitStatus("success");
     } catch (error) {
-      setModalMessage("Sorry, the message could not be sent right now. Please try again or email me directly.");
+      setModalMessage(
+        "Sorry, the message could not be sent right now. Please try again or email me directly."
+      );
       setSubmitStatus("error");
     }
   };
@@ -76,7 +83,7 @@ const Contact = () => {
           <div className="xl:w-[54%] order-2 xl:order-none">
             <form
               onSubmit={handleSubmit}
-              className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl"
+              className="flex flex-col gap-6 p-6 sm:p-10 bg-[#27272c] rounded-xl"
             >
               <input type="hidden" name="_captcha" value="false" />
               <input type="hidden" name="_template" value="table" />
@@ -125,23 +132,30 @@ const Contact = () => {
                 required
               />
               {/* btn */}
-              <Button type="submit" size="md" className="max-w-40">
+              <Button
+                type="submit"
+                size="md"
+                disabled={submitStatus === "loading"}
+                className="max-w-40 disabled:cursor-not-allowed disabled:opacity-60"
+              >
                 {submitStatus === "loading" ? "Sending..." : "Send message"}
               </Button>
             </form>
           </div>
           {/* info */}
-          <div className="flex-1 flex items-center xl:justify-end order-1 xl:order-none mb-8 xl:mb-0">
-            <ul className="flex flex-col gap-10">
+          <div className="flex-1 w-full min-w-0 flex items-center xl:justify-end order-1 xl:order-none mb-8 xl:mb-0">
+            <ul className="w-full max-w-full flex flex-col gap-8 xl:gap-10">
               {info.map((item, index) => {
                 return (
-                  <li key={index} className="flex items-center gap-6">
-                    <div className="w-[52px] h-[52px] xl:w-[72px] xl:h-[72px] bg-[#27272c] text-accent rounded-md flex items-center justify-center">
+                  <li key={index} className="flex items-center gap-4 xl:gap-6 min-w-0">
+                    <div className="shrink-0 w-[52px] h-[52px] xl:w-[72px] xl:h-[72px] bg-[#27272c] text-accent rounded-md flex items-center justify-center">
                       <div className="text-[28px]">{item.icon}</div>
                     </div>
-                    <div className="flex-1">
+                    <div className="flex-1 min-w-0">
                       <p className="text-white/60">{item.title}</p>
-                      <h3 className="text-xl">{item.description}</h3>
+                      <h3 className="text-base sm:text-xl break-words">
+                        {item.description}
+                      </h3>
                     </div>
                   </li>
                 );

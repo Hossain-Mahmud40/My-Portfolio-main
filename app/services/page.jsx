@@ -9,28 +9,28 @@ const services = [
     title: "Web Design",
     description:
       "Crafting visually stunning and user-friendly web designs tailored to your brand.",
-    href: "",
+    href: "/contact",
   },
   {
     num: "02",
     title: "Frontend Development",
     description:
       "Building responsive and interactive user interfaces with React, Next.js, and modern web technologies.",
-    href: "",
+    href: "/contact",
   },
   {
     num: "03",
     title: "Backend Development",
     description:
       "Developing secure, scalable, and high-performance server-side applications with Node.js, Express.js, and databases.",
-    href: "",
+    href: "/contact",
   },
   {
     num: "04",
     title: "API Development",
     description:
       "Designing robust RESTful APIs, authentication systems, and third-party integrations for seamless application connectivity.",
-    href: "",
+    href: "/contact",
   },
 ];
 
@@ -61,13 +61,14 @@ const Services = () => {
                   </div>
                   <Link
                     href={service.href}
+                    aria-label={`Contact me about ${service.title}`}
                     className="w-[70px] h-[70px] rounded-full bg-white group-hover:bg-accent transition-all duration-500 flex justify-center items-center hover:-rotate-45"
                   >
                     <BsArrowDownRight className="text-primary text-3xl" />
                   </Link>
                 </div>
                 {/* title */}
-                <h2 className="text-[42px] font-bold leading-none text-white group-hover:text-accent transition-all duration-500">
+                <h2 className="text-3xl sm:text-[42px] font-bold leading-none text-white group-hover:text-accent transition-all duration-500">
                   {service.title}
                 </h2>
                 {/* description */}

@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { BsGithub } from "react-icons/bs";
 import { FiChevronLeft, FiChevronRight, FiExternalLink } from "react-icons/fi";
 
@@ -69,7 +69,7 @@ const Projects = () => {
 
   const project = projects[activeProjectIndex];
 
-  const goToNextImage = () => {
+  const goToNextImage = useCallback(() => {
     if (activeImageIndex < project.images.length - 1) {
       setActiveImageIndex((current) => current + 1);
       return;
@@ -77,7 +77,7 @@ const Projects = () => {
 
     setActiveProjectIndex((current) => (current + 1) % projects.length);
     setActiveImageIndex(0);
-  };
+  }, [activeImageIndex, project.images.length]);
 
   const goToPreviousImage = () => {
     if (activeImageIndex > 0) {
@@ -96,7 +96,7 @@ const Projects = () => {
   useEffect(() => {
     const timer = setInterval(goToNextImage, 3500);
     return () => clearInterval(timer);
-  });
+  }, [goToNextImage]);
 
   return (
     <motion.section
@@ -117,7 +117,7 @@ const Projects = () => {
 
               <div>
                 <h2
-                  className="text-[42px] font-bold leading-none transition-all duration-500"
+                  className="text-3xl sm:text-[42px] font-bold leading-none transition-all duration-500"
                   style={{ color: project.titleColor }}
                 >
                   {project.title}
@@ -159,7 +159,7 @@ const Projects = () => {
 
           <div className="w-full xl:w-[56%] order-1 xl:order-none mb-10 xl:mb-0">
             <div className="relative xl:h-[560px]">
-              <div className="h-[390px] sm:h-[500px] xl:h-[500px] relative flex justify-center items-center bg-[#17171d] overflow-hidden">
+              <div className="h-[360px] sm:h-[500px] xl:h-[500px] relative flex justify-center items-center bg-[#17171d] overflow-hidden">
                 <Image
                   key={`${project.title}-${activeImageIndex}`}
                   src={project.images[activeImageIndex]}

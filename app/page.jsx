@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 import { FiDownload } from "react-icons/fi";
 
 // components
@@ -22,18 +23,16 @@ const Home = () => {
               I build scalable backend systems and modern web applications using
               Node.js, Express.js, MongoDB, PostgreSQL, React, and Next.js. I
               focus on clean architecture, performance, and practical
-              problem-solving. Alongside development, I’m also building my own
-              business and exploring innovative startup ideas.
+              problem-solving. Alongside development, I&apos;m also building my
+              own business and exploring innovative startup ideas.
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Button
-                variant="outline"
-                size="lg"
-                className="uppercase flex items-center gap-2"
-              >
-                <span>Download CV</span>
-                <FiDownload className="text-xl" />
+              <Button asChild variant="outline" size="lg">
+                <Link href="/resume" className="uppercase flex items-center gap-2">
+                  <span>View Resume</span>
+                  <FiDownload className="text-xl" />
+                </Link>
               </Button>
               <div className="mb-8 xl:mb-0">
                 <Social
